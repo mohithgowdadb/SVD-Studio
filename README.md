@@ -1,9 +1,8 @@
 # SVD Studio
 
 An interactive Streamlit app that shows how the **Singular Value Decomposition (SVD)** compresses, denoises and explains images.
-Built as a Linear Algebra mini project for **PES University, UE25MA242A**.
 
-**Live demo:** <PASTE YOUR STREAMLIT URL HERE>
+
 
 ## What it does
 
